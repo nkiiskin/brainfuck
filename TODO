@@ -1,0 +1,4 @@
+- Portability issues:
+   - ELF headers and assembly need to be modified to compile BF programs
+     to other systems.
+     (After all, pbfc claims to be portable compiler)
