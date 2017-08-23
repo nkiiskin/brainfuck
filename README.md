@@ -3,7 +3,7 @@ Hi folks,
 Pbfc is a Brainfuck (BF for short) compiler for Linux.
 It compiles x86/AMD64 executable files from Brainfuck source code.
 It creates programs/apps only for x86/64 Linux systems.
-So, the programs won't in Mac OS, for example.
+So, the programs won't work in Mac OS, for example.
 
 See http://en.wikipedia.org/wiki/Brainfuck for more information
 about the BF language.
